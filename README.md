@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-This reads package.json file and installs all the node dependencies required for running this project.
+This reads package.json file and installs all the node dependencies required for running this project. Used Packages such as Dev-Extreme, Bootstrap and React-router-DOM.
 
 ### `npm start`
 
