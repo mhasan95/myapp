@@ -13,13 +13,6 @@ class App extends Component {
     return (
       <div className="App" style={{ backgroundColor:'#ebf0f4',height:'100vh'}}>
         <NavMenu />
-        <footer class="footer" style={{backgroundColor:'#0055a5',height:'50px'}}>
-      <div class="container">
-        <span class="text-muted">Copyright: 2021
-        </span>
-      </div>
-    </footer>
-      
       </div>
     );
   }
