@@ -7,10 +7,13 @@ function NavMenu() {
   return (
     <div className="NavMenu">
           <Navbar style={{backgroundColor: '#0055a5'}} variant="dark">
-            <Navbar.Brand href="#home">Outbound Insights</Navbar.Brand>
+            <Navbar.Brand href="/">Outbound Insights</Navbar.Brand>
             <Nav className="mr-auto">
               <Nav.Link href="/">Home</Nav.Link>
+              <Nav.Link href="/">Contacts</Nav.Link>
+              <Nav.Link href="/">About</Nav.Link>
             </Nav>
+        
           
           </Navbar>
 
