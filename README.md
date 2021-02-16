@@ -1,4 +1,4 @@
-# Getting Starrted wit React Aplication
+# Getting Starrted wit React Application
 
 This project was bootstrapped with [Create React App]
 
