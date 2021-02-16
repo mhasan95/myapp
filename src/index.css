@@ -19,7 +19,11 @@ code {
   height:550px;
 
 }
-
+.links {
+  color: #8a95a0 !important;
+  font-size:13px;
+  text-decoration: none;
+}
 .card_title {
   height: 41px;
   font-size: 30px;
@@ -90,6 +94,14 @@ code {
 
   text-align : left;
   padding-bottom:5px;
-  z-index: 2;
+  z-index: 1;
   position: relative;
+}
+.grid-headers {
+  color: #0055a4;
+  font-size:12px;
+  padding-top:3px;
+  letter-spacing:1px;
+  font-weight:600;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif!important;
 }
